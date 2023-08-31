@@ -20,7 +20,7 @@
 <b>Fan of:</b> Myself
 </li>
 <li>
-<b>Loves:</b> XR games, anime, music, drawing
+<b>Loves:</b> XR, rock, hiphop, games, anime, drawing
 </li>
 <li>
 <b>Spotify</b> <a href="https://open.spotify.com/artist/47ZBZVm19GxKldrBG5Yno8?si=3I6KFOVATGmnl0dUEQo3yQ">𝕯𝖊𝕹𝖞𝖝 𝕸𝖚𝖘𝖎𝖈</a>
@@ -29,7 +29,7 @@
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development, Game Development, Music Production, Drawing, Freerunning and more...
 </li>
 <li>
-<b>Working @:</b> Monster Notebook, TaliaTech and a few startups.
+<b>Working @:</b> Monster Notebook and TaliaTech
 </li>
 <br><br><br>
 </div>
@@ -84,7 +84,7 @@
 <br>
 <p align="center">If you wanna reach out feel free to text me<br>
 whenever you want down below:</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank">
+<p align="center"><a href="https://www.instagram.com/deniz_yunus.gogus/" target="_blank">
   <img src="https://img.shields.io/badge/Deniz Yunus Göğüş-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/deniz-yunus-gogus/" target="_blank">
