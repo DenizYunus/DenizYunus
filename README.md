@@ -29,7 +29,7 @@
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development, Game Development, Music Production, Drawing, Freerunning and more...
 </li>
 <li>
-<b>Working @:</b> Monster Notebook and TaliaTech
+<b>Working @</b> Monster Notebook
 </li>
 <br><br><br>
 </div>
