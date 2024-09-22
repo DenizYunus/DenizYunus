@@ -20,7 +20,7 @@
 <b>Fan of:</b> Myself
 </li>
 <li>
-<b>Loves:</b> XR, rock, hiphop, games, anime, drawing
+<b>Loves:</b> XR, hiphop, rock, freerunning, games, anime, drawing
 </li>
 <li>
 <b>Spotify</b> <a href="https://open.spotify.com/artist/47ZBZVm19GxKldrBG5Yno8?si=3I6KFOVATGmnl0dUEQo3yQ">𝕯𝖊𝕹𝖞𝖝 𝕸𝖚𝖘𝖎𝖈</a>
@@ -29,7 +29,7 @@
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development, Game Development, Music Production, Drawing, Freerunning and more...
 </li>
 <li>
-<b>Working @</b> Monster Notebook
+<b>Working @</b> Corexas Consulting Group
 </li>
 <br><br><br>
 </div>
