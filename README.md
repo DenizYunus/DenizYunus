@@ -4,14 +4,16 @@
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
- <img src="https://media1.giphy.com/media/eWODUP1UxnzGM/giphy.gif?cid=ecf05e47hecdfpwfsm5xuuvprejd8l8qm5wqm8rg035fy916&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+ <!-- <img src="https://media1.giphy.com/media/eWODUP1UxnzGM/giphy.gif?cid=ecf05e47hecdfpwfsm5xuuvprejd8l8qm5wqm8rg035fy916&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /> -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM3OTk0OHRnajNiZWJqa3BkbXhjajMyMzRhcWR4dXJjNzFsM2Z5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28XNSibg5rwrWq3HIq/giphy.gif" />
   <br>
   <p>Listen while reading</p>
   <p style="font-size:22px;">𝕯𝖊𝕹𝖞𝖝</p>
 <p><a style="font-size:20px;" href="https://open.spotify.com/track/55phMMJiqMhc3IRlJvERPD?si=06b0919c5f134bd2">ᴋɪꜱꜱ ɴ ᴄʀᴀᴠᴇ</a><p>
 <h2 align="center"> 🌠 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🌠 </h2>
   <div align="center">
-<img src="https://media.tenor.com/3OGmmJGewX4AAAAC/eyvallah-eyv.gif" align="right">
+<!-- <img src="https://media.tenor.com/3OGmmJGewX4AAAAC/eyvallah-eyv.gif" align="right"> -->
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmwxdDc1YXkyb3d6ZXB0dDQwZm1lcHZzazMwaDZ6MjdsaW8zdWQycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UXYgWtFBODGX0aIgGK/giphy.gif" align="right" />
   </div>
 <li>
  <b>Name:</b> Deniz
@@ -38,7 +40,8 @@
  <br>
 <p>
   <div align="center">
-<img src="https://media.tenor.com/6SVxuCbl2YIAAAAC/recep-ivedik-recep-sihir.gif" align="right" width="373.5px" height="208.5px">
+<!-- <img src="https://media.tenor.com/6SVxuCbl2YIAAAAC/recep-ivedik-recep-sihir.gif" align="right" width="373.5px" height="208.5px"> -->
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI4ZDgwcWk4NWdlMmt5ZncwcXJoYWQ5djQzcXl3cjdibmgycWM5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tzD7KF8Cy8bCsnhqFB/giphy.gif" align="right" width="273.5px" height="308.5px"/>
   </div>
 </div>
 <div>
@@ -78,9 +81,12 @@
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://media.tenor.com/4wJb9D4hkjQAAAAd/recep-ivedik1-recep-ivedik.gif" align="right" width="373.5px" height="208.5px">
+<!-- <img src="https://media.tenor.com/4wJb9D4hkjQAAAAd/recep-ivedik1-recep-ivedik.gif" align="right" width="373.5px" height="208.5px"> -->
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVsbG84M21pbmFzbWIwc3o0c2x2emc5YmxiaXUzNGMza2g2bDBrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pxSZ3JBsHUpvB4gm6/giphy.gif" align="right" width="373.5px" height="208.5px"/>
   </div>
 <br>
+  <br/>
+  <br/>
 <p align="center">If you wanna reach out feel free to text me<br>
 whenever you want down below:</p>
 <p align="center"><a href="https://www.instagram.com/deniz_yunus.gogus/" target="_blank">
@@ -89,13 +95,16 @@ whenever you want down below:</p>
 <a href="https://www.linkedin.com/in/deniz-yunus-gogus/" target="_blank">
   <img src="https://img.shields.io/badge/Deniz Yunus Göğüş-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+  <br/>
+  <br/>
 </p>
 </div>
 <br>
 <div>
 <h2 align="center">𓂀 ℍ𝕠𝕡𝕖 𝕥𝕠 𝕤𝕖𝕖 𝕪𝕠𝕦 𝕤𝕠𝕠𝕟 🙂 𓂀</h2>
 <div align="center">
-<img src="https://media.tenor.com/4eVnRwH2VW0AAAAd/recep-recep-ivedik.gif">
+<!--<img src="https://media.tenor.com/4eVnRwH2VW0AAAAd/recep-recep-ivedik.gif">-->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc2eDNqZnZzaWI4bDhlYmM4bW1vcGRiOGxuN2M4N2ozcGh1cW1lYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XmMWF7D6kNiHeI9Hx8/giphy.gif" />
 </div>
 <hr>
 </div>
