@@ -93,7 +93,7 @@ whenever you want down below:</p>
   <img src="https://img.shields.io/badge/Deniz Yunus Göğüş-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/deniz-yunus-gogus/" target="_blank">
-  <img src="https://img.shields.io/badge/Deniz Yunus Göğüş-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deniz Yunus Göğüş-%230077B5.svg?style=for-the-badge&logo=invision&logoColor=white"/>
 </a>
   <br/>
   <br/>
